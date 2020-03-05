@@ -1,0 +1,173 @@
+update [coal_stations - Sheet1]
+set Station_ID = 1
+where Station_Name like 'Arnot%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 2
+where Station_Name like 'Camden%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 3
+where Station_Name like 'Duvha%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 4
+where Station_Name like 'Grootvlei%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 5
+where Station_Name like 'Hendrina%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 6
+where Station_Name like 'Kelvin%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 7
+where Station_Name like 'Kendal%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 8
+where Station_Name like 'Komati%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 9
+where Station_Name like 'Kriel%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 10
+where Station_Name like 'Kusile%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 11
+where Station_Name like 'Lethabo%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 12
+where Station_Name like 'Majuba%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 13
+where Station_Name like 'Matimba%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 14
+where Station_Name like 'Matla%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 15
+where Station_Name like 'Medupi%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 16
+where Station_Name like 'Pretoria West%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 17
+where Station_Name like 'Rooiwal%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 18
+where Station_Name like 'Tutuka%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 19
+where Station_Name like 'Acacia%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 20
+where Station_Name like 'Ankerlig%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 21
+where Station_Name like 'Gourikwa%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 22
+where Station_Name like 'Newcastle%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 23
+where Station_Name like 'Port Rex%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 24
+where Station_Name like 'Avon%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 25
+where Station_Name like 'Dedisa%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 26
+where Station_Name like 'Tubatse%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 27
+where Station_Name like 'Ingula%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 28
+where Station_Name like 'Drakensberg%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 29
+where Station_Name like 'Gariep%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 30
+where Station_Name like 'Palmiet%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 31
+where Station_Name like 'Steenbras%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 32
+where Station_Name like 'Vanderkloof%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 33
+where Station_Name like 'Colley Wobbles%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 34
+where Station_Name like 'Ncora Dam%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 35
+where Station_Name like 'Sol Plaatje%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 36
+where Station_Name like 'Merino%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 37
+where Station_Name like 'Kakamas%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 38
+where Station_Name like 'Kruisvallei%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 39
+where Station_Name like 'Koeberg%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 40
+where Station_Name like 'Klipheuwel%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 41
+where Station_Name like 'Sere%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 42
+where Station_Name like 'First Falls%'
+
+update [coal_stations - Sheet1]
+set Station_ID = 43
+where Station_Name like 'Second Falls%'
+
+--all these queries changes the newly created column(station_ID) values to those that corispond to the station names in the table [coal_stations - sheet1]
